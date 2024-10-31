@@ -39,4 +39,4 @@ async def ikdev10(ctx):
 @bot.command()
 async def ikder1(ctx):
     await ctx.send(f"https://www.ozguroner.dr.tr/wp-content/uploads/2021/08/iklim-degisikligi.jpg")
-bot.run("")
+bot.run("gizli token")
